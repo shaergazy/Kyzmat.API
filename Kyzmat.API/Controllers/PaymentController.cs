@@ -1,9 +1,6 @@
 ﻿using Kyzmat.API.Extensions;
-using Kyzmat.BLL.DTO;
 using Kyzmat.BLL.Interfaces;
-using Kyzmat.DAL.Models;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Kyzmat.API.Controllers
