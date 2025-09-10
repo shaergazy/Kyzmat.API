@@ -1,0 +1,6 @@
+@Kyzmat.API_HostAddress = http://localhost:5088
+
+GET {{Kyzmat.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

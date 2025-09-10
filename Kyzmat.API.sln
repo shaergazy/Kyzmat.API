@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyzmat.API", "Kyzmat.API\Kyzmat.API.csproj", "{CFF79D30-D29A-4B89-A0CF-D068FF0907CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyzmat.BLL", "Kyzmat.BLL\Kyzmat.BLL.csproj", "{6AB514A5-2F4C-46C1-83AC-B55478617022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyzmat.DAL", "Kyzmat.DAL\Kyzmat.DAL.csproj", "{34F2BCF8-64D8-4AFB-B488-148478539D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF79D30-D29A-4B89-A0CF-D068FF0907CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF79D30-D29A-4B89-A0CF-D068FF0907CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF79D30-D29A-4B89-A0CF-D068FF0907CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF79D30-D29A-4B89-A0CF-D068FF0907CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB514A5-2F4C-46C1-83AC-B55478617022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB514A5-2F4C-46C1-83AC-B55478617022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB514A5-2F4C-46C1-83AC-B55478617022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB514A5-2F4C-46C1-83AC-B55478617022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F2BCF8-64D8-4AFB-B488-148478539D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F2BCF8-64D8-4AFB-B488-148478539D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F2BCF8-64D8-4AFB-B488-148478539D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F2BCF8-64D8-4AFB-B488-148478539D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAC0A5E1-6DA4-421C-824C-4D1E59151E05}
+	EndGlobalSection
+EndGlobal
